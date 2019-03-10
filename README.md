@@ -110,6 +110,9 @@ Data were separated into train and test subsets and explored on linear regressio
 
 A large difference between train RMSE (7520.87) and test RMSE (18987.79) suggested overfit of the model. Thus, the model was tested again with Ridge  and Lasso regularization.
 
+Root-mean-square deviation
+DescriptionThe root-mean-square deviation or root-mean-square error is a frequently used measure of the differences between values predicted by a model or an estimator and the values observed
+
 ### IV. Model Results
 
 ![ridge](https://github.com/michellesklee/analytic_capstone/blob/master/images/ridge-models.png)
